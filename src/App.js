@@ -59,7 +59,7 @@ function App() {
   //           </div>
   //           <div className="ml-3 flex-1">
   //             <p className="text-sm font-medium text-gray-900">
-  //               Yash Sarode
+  //               
   //             </p>
   //             <p className="mt-1 text-sm text-gray-500">
   //               Backend server using free service may require 10-15 sec to warm-up initially,
@@ -97,7 +97,7 @@ function App() {
             </div>
             <div className="ml-3 flex-1">
               <p className="text-sm font-medium text-gray-900">
-                Yash Sarode
+                UDIT SHARMA
               </p>
               <p className="mt-1 text-sm text-gray-500">
                 Backend server is using free hoisting service which may require 8-10 sec to warm-up initially,
